@@ -10,6 +10,7 @@ Instructions to fire up:
 1. $ mkdir your_project_name
 2. $ cd your_project_name
 3. $ git clone git@github.com:eelcoverbrugge/docker_symfony5.git
+4. $ mv docker_symfony5 docker
 4. $ symfony new src
 5. $ cd docker
 6. $ systemctl stop apache2
